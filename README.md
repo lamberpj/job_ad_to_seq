@@ -1,5 +1,5 @@
 # Job Ad to Sub-Sequence Text Processor
-This contains a minimal working example of the code used in "Remote Work across Jobs, Companies and Space" by Hansen, Lambert, Bloom, Davis, Sadun &amp; Taska (2023).
+This contains a minimal working example of the code used in "Remote Work across Jobs, Companies, and Space" by Hansen, Lambert, Bloom, Davis, Sadun &amp; Taska (2023).
 
 I provide my R script, and 100 example job vacancy postings, which come from Lightcast.  Each vacancy posting has been web-scraped from the internet.  The examples are drawn randomly from the US in 2021.
 
